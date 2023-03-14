@@ -27,16 +27,7 @@ go build -o server main.go (windows编译命令为go build -o server.exe main.go
 
 #### 前端项目启动
 
-然后按照原项目的部署说明部署即可。
-
-[后台管理项目](https://github.com/newbee-ltd/vue3-admin)
-
 测试用户名：admin  测试密码：123456
-
-
-[前台商城](https://github.com/newbee-ltd/newbee-mall-vue3-app)
-
-直接注册账号就可以了。
 
 ## 页面展示
 
