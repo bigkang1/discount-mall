@@ -29,48 +29,6 @@ go build -o server main.go (windows编译命令为go build -o server.exe main.go
 
 测试用户名：admin  测试密码：123456
 
-## 页面展示
-
-以下为新蜂商城 Vue 版本的页面预览：
-
-- 登录页
-
-![](static-files/登录.png)
-
-- 首页
-
-![](static-files/首页.png)
-
-- 商品搜索
-
-![](static-files/商品搜索.png)
-
-- 商品详情页
-
-![](static-files/详情页.png)
-
-- 购物车
-
-![](static-files/购物车.png)
-
-- 生成订单
-
-![](static-files/生成订单.png)
-
-- 地址管理
-
-![](static-files/地址管理.png)
-
-- 订单列表
-
-![](static-files/订单列表.png)
-
-- 订单详情
-
-![](static-files/订单详情.png)
-
 ## 感谢
-
-- [newbee-ltd](https://github.com/newbee-ltd)
 
 - [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)
